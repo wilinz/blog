@@ -1,0 +1,39 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+flutter:
+  label: Flutter
+  permalink: /flutter
+  description: Flutter 跨平台移动应用开发框架
+
+ios:
+  label: iOS
+  permalink: /ios
+  description: iOS 移动应用开发
+
+github-actions:
+  label: GitHub Actions
+  permalink: /github-actions
+  description: GitHub Actions 自动化CI/CD
+
+自动化:
+  label: 自动化
+  permalink: /automation
+  description: 自动化构建和部署
