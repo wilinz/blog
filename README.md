@@ -86,9 +86,7 @@ my-docs/
 
 ## 网站访问
 
-- 🌐 主站地址: [https://wilinz.github.io/notebook/](https://wilinz.github.io/notebook/)
-- 📝 博客地址: [https://wilinz.github.io/blog](https://wilinz.github.io/blog)
-- 📚 文档地址: [https://wilinz.github.io/notebook/docs](https://wilinz.github.io/notebook/docs)
+- 🌐 主站地址: [https://wilinz.github.io/notebook/](https://wilinz.github.io/blog/)
 - 📱 支持移动端访问
 
 ## License
