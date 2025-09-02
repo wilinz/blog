@@ -142,6 +142,7 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+      additionalLanguages: ['dart', 'rust', 'java', 'kotlin'],
     },
     colorMode: {
       defaultMode: 'light',
